@@ -21,4 +21,7 @@ This project processes large JSON datasets from the National Vulnerability Datab
 - **Environment**: Jupyter Notebook
 - **Version Control**: Git + Git LFS for large files
 
-
+- ### Structure
+- **Final-Project-Notebook**: Contains the full project with all code, visualizations, and analysis
+- **Project-Deliverables**: Contains the smaller parts of the project that led to the final notebook
+- **Data**: Contains all data sets used
